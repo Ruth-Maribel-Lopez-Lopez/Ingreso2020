@@ -1,0 +1,13 @@
+Algoritmo Ejercicio_7
+	//Dado el radio de un circulo imprima el área (a=Pi*Radio2
+	//) y el perímetro (R=2*Pi*Radio)
+	Pii= 3.14
+	radio= 0
+	A=0
+	P=0
+	leer radio
+	A= Pii*(radio*radio)
+	P= 2*Pii*radio
+	Imprimir "El Area es: ", A
+	Imprimir "El perimetro es: ", P
+FinAlgoritmo
