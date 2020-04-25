@@ -1,0 +1,10 @@
+Algoritmo Ejercicio_5
+	//Cargue los 3 lados de un triángulo e imprima su perímetro (P=L1
+	//+ L2 + L3).
+	l1=0
+	l2=0
+	l3=0
+	leer l1, l2, l3
+	p= l1+l2+l3
+	Imprimir "El perimetro es: ", p
+FinAlgoritmo
