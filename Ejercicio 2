@@ -1,6 +1,6 @@
 Algoritmo ejercicio_2
 	//Leer 3 números e imprimir el primer número leído y la suma del
-	//primero y el ultimo.
+	//primero y el ultimos.
 	a=0
 	b=0
 	c=0
