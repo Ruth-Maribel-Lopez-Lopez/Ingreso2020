@@ -1,0 +1,11 @@
+Algoritmo Ejercicio_4
+	//Ingresar la altura y peso de una persona e imprimir el índice de
+	//mesa corporal del mismo ( IMC = peso / (altura)2 ) )
+	pe=0
+	al=0
+	imc=0
+	leer al
+	leer pe
+	imc= pe/(al*al)
+	Imprimir "El indice de masa corporal es: ", imc
+FinAlgoritmo
