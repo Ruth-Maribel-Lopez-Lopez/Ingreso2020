@@ -1,0 +1,14 @@
+Algoritmo Ejercicio_1
+	//Leer dos variables, cargarla en una variable X e Y y luego
+	//intercambiar sus contenidos. Finalmente imprimir sus resultados.
+	x=0
+	yy=0
+	aux=0
+	leer x
+	leer yy
+	aux= x
+	x=yy
+	yy= aux
+	Imprimir "X: ", x
+	Imprimir "Y: ", yy
+FinAlgoritmo
